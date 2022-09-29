@@ -1,0 +1,78 @@
+[{
+        "id": "1",
+        "name": "Math",
+        "details": "Mathematics is used in science for modeling phenomena.",
+        "time": 60,
+        "img": "https://kbimages1-a.akamaihd.net/5398a9c3-3704-4c8e-b4b2-8e3877f9bff8/353/569/90/False/mathematics-magic-and-mystery.jpg"
+    },
+    {
+        "id": "2",
+        "name": "English ",
+        "details": "The English is, along with the Simple English-language.",
+        "time": 60,
+        "img": "https://i.pinimg.com/564x/51/ac/f7/51acf76e0a06ccfd34fecfca4a49e004.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Art",
+        "details": "Art is a diverse range of human activity, and resulting product, that involves creative.",
+        "time": 60,
+        "img": "https://i.pinimg.com/564x/ee/b2/77/eeb277354a1e6bc929db32f38d907054.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Biology",
+        "details": " Biology is a branch of science that deals with living organisms and their vital processes.",
+        "time": 60,
+        "img": "https://i.pinimg.com/564x/9e/45/ee/9e45ee5db734d89fd77e6a8d5cf7c6a3.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Music",
+        "details": "Music is generally defined as the art of arranging sound expressive content.",
+        "time": 60,
+        "img": "https://i.pinimg.com/564x/68/8e/61/688e61e496fb452b71c71eb140de9f77.jpg"
+    },
+    {
+        "id": "6",
+        "name": "History",
+        "details": "History is the study and the documentation of the past.",
+        "time": 60,
+        "img": "https://i.pinimg.com/564x/f2/b9/23/f2b923aa373cc6f8bbf77cca9438717f.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Geography",
+        "details": "Geography is a field of science devoted to the study of the Earth.",
+        "time": 60,
+        "img": "https://i.pinimg.com/564x/bf/84/38/bf8438e90b44eaf64dfce3c33fd87365.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Drama",
+        "details": "Drama is the specific mode of fiction represented in performance",
+        "time": 60,
+        "img": "https://i.pinimg.com/564x/a4/d4/4e/a4d44e239f6dd0e295ace62a9a89eaa9.jpg"
+    },
+    {
+        "id": "9",
+        "category": "Science",
+        "details": "Science is a systematic enterprise that builds and organizes knowledge.",
+        "time": 60,
+        "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWP1uCSO2xZ0Ko06s8mDIigE7gcd1nXHG-CeOEWQHS_7JKMJ9S"
+    },
+    {
+        "id": "11",
+        "name": "Information Technology",
+        "details": "nformation technology (IT) is the use of computers to create and information. ",
+        "time": 60,
+        "img": "https://i.pinimg.com/736x/71/95/90/71959027b86883b20b38f53444fab335.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Physical Education",
+        "details": " learning by using a play and movement exploration setting to promote fitness.",
+        "time": 60,
+        "img": "https://i.pinimg.com/736x/6d/8e/f9/6d8ef9293a6decfc3250de5f262957c8.jpg"
+    }
+]
