@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #f2f4fa;
 }
 
 .App-logo {
@@ -45,4 +46,17 @@
 
 .activities-section{
 width: 30%;
+background-color: #ffffff
+;
+}
+@media screen and (max-width: 600px) {
+  .header-section{
+  width: 50%;
+}
+
+.activities-section{
+width: 50%;
+background-color: #ffffff
+;
+}
 }

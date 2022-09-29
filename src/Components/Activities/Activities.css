@@ -1,0 +1,111 @@
+.user-section{
+    display: flex;
+    align-items: center;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+.user-img img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.user-name{
+    margin: 0px;
+    padding: 0px;
+    margin-left: -2rem;
+}
+.user-add{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 1.5rem;
+}
+.mp{
+    margin: 0;
+    padding: 0;
+}
+.user-body{
+    background-color: #f2f4fa;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 2px solid #7791a1;
+    border-radius: 20px;
+    margin: 2rem 2rem;
+    padding: 1rem;
+}
+.add-break{
+    border: 2px solid #7791a1;
+    border-radius: 20px;
+    margin: 1rem 3rem;
+    padding: 1rem;
+    background-color: #f2f4fa;
+}
+.break-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f2f4fa;
+}
+.break-box button{
+    width: 2rem;
+    height: 2rem;
+    border: none;
+    background-color: #f65868;
+    color: #ffffff;
+    border-radius: 50%;
+}
+.study-container{
+    border: 2px solid #7791a1;
+    border-radius: 20px;
+    margin: 1rem 3rem;
+    padding: 1rem;
+    background-color: #f2f4fa;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.break-time{
+       border: 2px solid #7791a1;
+    border-radius: 20px;
+    margin: 1rem 3rem;
+    padding: 1rem;
+    background-color: #f2f4fa;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.study-container h3{
+    margin: 0;
+}
+.break-time h3{
+    margin: 0;
+}
+
+.activity-btn{
+    border-radius: 10px;
+    margin: 1rem 3rem;
+    padding: 1rem;
+    border: none;
+    background-color: #f65868;
+    color: #ffffff;
+}
+
+@media screen and (max-width: 600px) {
+  .user-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+.user-name{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 0rem;
+}
+.user-add{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 0rem;
+}
+}
