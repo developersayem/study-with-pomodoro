@@ -95,8 +95,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-left: 5rem;
-    margin-top: 1rem;
+    margin-left: 0rem;
+    margin-top: 2rem;
 }
 .user-name{
     margin: 0px;
@@ -107,5 +107,31 @@
     margin: 0px;
     padding: 0px;
     margin-left: 0rem;
+}
+
+.break-box{
+   flex-direction: column;
+}
+.user-body{
+    flex-direction: column;
+    align-items: baseline;
+}
+.break-box button{
+    margin-bottom: 1rem;
+}
+.study-container{
+  flex-direction: column;
+  margin: 1rem;
+  margin-left: 0;
+      margin-right: 0;
+}
+.break-time{
+      flex-direction: column;
+      margin-left: 0;
+      margin-right: 0;
+}
+.activity-btn{
+    margin: 0;
+    padding: 1rem;
 }
 }

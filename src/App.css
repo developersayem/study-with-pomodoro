@@ -51,11 +51,11 @@ background-color: #ffffff
 }
 @media screen and (max-width: 600px) {
   .header-section{
-  width: 50%;
+  width: 60%;
 }
 
 .activities-section{
-width: 50%;
+width: 40%;
 background-color: #ffffff
 ;
 }
